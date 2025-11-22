@@ -55,7 +55,7 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/ecommerce-frontend-design.git](https://github.com/YOUR_USERNAME/ecommerce-frontend-design.git)
+    git clone https://github.com/AbubakarAfzal643/ecommerce-frontend-design.git
     ```
 
 2.  **Navigate to the project directory:**
